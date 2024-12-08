@@ -62,12 +62,21 @@ Half subtractor
 
 Developed by:ch.dinesh kumar RegisterNumber:*/24000305
 
-![WhatsApp Image 2024-12-02 at 13 51 04_8e1264f0](https://github.com/user-attachments/assets/fb660f56-2828-4884-a595-095b8c1c0f33)
+![Screenshot (13)](https://github.com/user-attachments/assets/cbf11c32-c0aa-4ec7-971d-36e5000b3cd7)
+
+![Screenshot (17)](https://github.com/user-attachments/assets/e098ab93-dd26-46f7-870e-33511b933364)
 
 **RTL Schematic**
-![WhatsApp Image 2024-12-02 at 13 51 28_ab6be8d3](https://github.com/user-attachments/assets/1c2fbc98-05d3-42c2-bd68-a6a2df90e571)
+
+![Screenshot (14)](https://github.com/user-attachments/assets/52c2a856-9de2-4ce0-b2ce-3bff5b6e3b19)
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/3e34dd5d-2067-401f-87d1-d266675931ea)
 
 **Output/TIMING Waveform**
-![WhatsApp Image 2024-12-02 at 13 50 16_ad008722](https://github.com/user-attachments/assets/f60a0a3b-af50-4f0e-b635-bf1c2cffe4f7)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/f938c7d3-296b-4866-8bc0-47bd0ea1d768)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/5cd779e4-1ee7-4b6e-9983-322c08777cfe)
 
 **Result:** Thus the Half adder and Half Subtractor circuits are designed and the truth table is verified using Quartus software
